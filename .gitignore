@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+screenshots/
+7-Zip/
+dlib-19.24.99-cp312-cp312-win_amd64.whl
+venv/
+tempCodeRunnerFile.py
+*.xlsx
